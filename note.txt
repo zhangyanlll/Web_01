@@ -1,0 +1,5 @@
+! 在linux中，表执行
+html文件是树状结构，<html>是根结点
+<head>包头 <body>消息体
+meta 元数据，charset 字符集
+元素：<标签>内容</标签>
